@@ -1,6 +1,6 @@
 {
   "name": "promise-not",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "The NOT (!) operator for promises",
   "main": "src/index.js",
   "scripts": {
@@ -24,6 +24,5 @@
     "xo": "^0.8.0"
   },
   "repository": "joakimbeng/promise-not",
-  "dependencies": {
-  }
+  "dependencies": {}
 }
